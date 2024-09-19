@@ -1,7 +1,7 @@
 {
-  "name": "namaste-react",
+  "name": "crave-cure",
   "version": "1.0.0",
-  "description": "This is NamasteReact Course",
+  "description": "cravings cured",
   "main": "app.js",
   "scripts": {
     "start": "parcel index.html",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/akaash1502/React.git)"
+    "url": "(https://github.com/akaash1502/crave-cure.git)"
   },
   "keywords": [],
   "author": "Akash Sharma",
@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
+    "@swc/helpers": "^0.5.13",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-redux": "^9.1.2",
